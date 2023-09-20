@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/lalit256/lalit256/blob/2f9f82bcd00e7adec93826b3f77db69eef681beb/Github%20background.webp)
 <h1 align="center">Hi 👋, I'm Lalit Jindal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
